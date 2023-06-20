@@ -4,6 +4,6 @@ const secondName= document.getElementsByTagName("input")[1]
 function getFormvalue() {
     //Write your code here
 	// console.log(firstName.value);
-    alert(firstName.value+secondName.value);
+   alert(firstName.value+" "+secondName.value);
 
 }
